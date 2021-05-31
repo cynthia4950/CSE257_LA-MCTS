@@ -1,0 +1,5 @@
+numpy
+torch
+scikit-learn
+matplotlib
+mujoco-py<2.1,>=2.0
